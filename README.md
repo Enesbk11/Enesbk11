@@ -9,6 +9,6 @@
 # 📊 GitHub Stats:
 ![]![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enesbk11&theme=radical&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Enesbk11&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesbk11&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesbk11&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
