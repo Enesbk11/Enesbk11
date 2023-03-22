@@ -23,10 +23,10 @@ Connect with me:
 ![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enesbk11&show_icons=true&theme=vue-dark)
 
 
-####  [Github Stats Terminal Style](https://github.com/Enesbk11/github-stats-terminal-style)
+####  [Github Stats](https://github.com/enesbk11/github-stats-terminal-style)
 
-Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
+
 
 📍 For example : &nbsp;
 
-<img src="https://raw.githubusercontent.com/Enesbk11/github-stats-terminal-style/master/github_stats.svg" style="max-width: 100%;" align="middle">
+<img src="https://raw.githubusercontent.com/enesbk11/github-stats-terminal-style/master/github_stats.svg" style="max-width: 100%;" align="middle">
