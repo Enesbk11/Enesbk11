@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Connect with me:
 <br/>
-<img src="https://github.com/Enesbk11/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enesbk11&hide_progress=true)](https://github.com/Enesbk11/github-readme-stats)
