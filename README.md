@@ -23,10 +23,3 @@ Connect with me:
 ![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enesbk11&show_icons=true&theme=vue-dark)
 
 
-####  [Github Stats](https://github.com/enesbk11/github-stats-terminal-style)
-
-
-
-📍 For example : &nbsp;
-
-<img src="https://raw.githubusercontent.com/enesbk11/github-stats-terminal-style/master/github_stats.svg" style="max-width: 100%;" align="middle">
